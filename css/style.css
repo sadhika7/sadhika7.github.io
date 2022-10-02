@@ -337,6 +337,7 @@ header {
 .about-me {
   max-width: 1000px;
   margin: 0 auto;
+  background-color: #d3d3d3;
 }
 
 .about-me__img {
